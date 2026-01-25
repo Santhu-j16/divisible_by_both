@@ -1,4 +1,4 @@
-let num =1 0;
+let num =10;
  
 if (num<0){
   console.log("Enter positive number")

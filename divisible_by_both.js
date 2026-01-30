@@ -5,7 +5,7 @@ if (num<0){
 }
 
   else if (num%3 == 0 && num%5== 0){
-    console.log("Divisible by both 3 and 5");
+    console.log("Divisible by both 3 and 5"); 
   }
   else if (num%3 == 0){
     console.log ("Divisible by only 3");

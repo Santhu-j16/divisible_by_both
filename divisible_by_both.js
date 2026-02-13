@@ -16,7 +16,7 @@ if (num<0){
   else {
   console.log ("num is not divisible by both 3 and 5");
   }
-  {console.log(" *Thank you* "); 
+  {console.log(" *Thank you* ");  
   }  
   
  

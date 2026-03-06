@@ -14,7 +14,7 @@ if (num<0){
     console.log("Divisible by only 5") 
   }
   else {
-  console.log ("num is not divisible by both 3 and 5");
+  console.log ("num is not divisible by both 3 and 5"); 
   }
   {console.log(" *Thank you* ");   
   }  

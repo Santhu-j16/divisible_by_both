@@ -9,7 +9,7 @@ if (num<0){
   } 
   else if (num%3 == 0){
     console.log ("Divisible by only 3");   
-  }
+  } 
   else if (num%5 ==0){ 
     console.log("Divisible by only 5") 
   }

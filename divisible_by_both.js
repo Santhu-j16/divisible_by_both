@@ -1,7 +1,7 @@
 let num =10;
    
 if (num<0){
-  console.log("Enter positive number")     
+  console.log("Enter positive number")      
 } 
  
   else if (num%3 == 0 && num%5== 0){
